@@ -2,7 +2,7 @@ __pycache__/
 Lab1-std/
 lab03-Smoothing-std/
 lab04-ContrastEnhancement-std/
-lab05-edge-detection-std/
+# lab05-edge-detection-std/
 lab06-morphological-std/
 lab07-Segmentation1-STD/
 lab08_Classification/
